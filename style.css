@@ -13,7 +13,11 @@ ul {
     overflow: hidden;
     
     /*  */
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(180, 84, 140);
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+
 }
 /* The <li> tag is used inside ordered lists(<ol>), unordered lists (<ul>), and in menu lists (<menu>). */
 li {
@@ -73,3 +77,23 @@ p1{
     font: italic;
     font-family: cursive;
 }
+*{
+    color: purple;
+    font: italic;
+}
+p4{
+    border-top-right-radius:50%;
+}
+img {
+    border-radius: 50%;
+  }
+ p3{
+     font: italic;
+     font: medium;
+     font-weight: bold;
+ } 
+ h2{
+     font-size: x-large;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-style: italic;
+ }
