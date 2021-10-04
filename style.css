@@ -47,3 +47,6 @@ li a .active {
     /*  */
     background-color: rgb(4, 15, 78);
 }
+body{
+    text-justify: auto;
+}
