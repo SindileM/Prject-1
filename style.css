@@ -49,5 +49,27 @@ li a .active {
 }
 h2{ 
      text-align: center;
-     text color: white;
+}
+p{
+    text-align: center;
+}
+p{
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
+form{
+    text-align: center;
+}
+fieldset{
+    border: solid 10px whitesmoke;
+    padding: 20px;
+    display:inline-block;  
+}
+p1{
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+    font: italic;
+    font-family: cursive;
 }
