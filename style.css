@@ -88,9 +88,11 @@ img {
     border-radius: 50%;
   }
  p3{
-     font: italic;
-     font: medium;
+     font-style: italic;
+     font-size: 30px;
      font-weight: bold;
+     font-family: cursive;
+     text-align: left;
  } 
  h2{
      font-size: x-large;
