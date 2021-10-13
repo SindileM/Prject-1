@@ -156,3 +156,9 @@ img {
     border-radius: 100px;
     color: whitesmoke;
 }
+
+.hobby{
+    padding-block: 14px 16px; 
+    display: block;
+    
+}
