@@ -157,6 +157,7 @@ img {
     color: whitesmoke;
 }
 
+<<<<<<< HEAD
 * {
     box-sizing: border-box;
   }
@@ -290,3 +291,10 @@ img {
     left: 0%;
     }
   }
+=======
+.hobby{
+    padding-block: 14px 16px; 
+    display: block;
+    
+}
+>>>>>>> 6acebd370543516bd8480e5386f2e4d4aae043cc
